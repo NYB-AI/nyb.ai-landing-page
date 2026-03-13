@@ -41,6 +41,9 @@ export const metadata: Metadata = {
       "Advanced AI accessible across every layer of life science R&D.",
     images: ["/thumbnail.png"],
   },
+  icons: {
+    icon: "https://cdn.prod.website-files.com/669f5ed9477efc58c51eb832/675bafd8cea5598fbbb05590_nanyangbiologics_favicon.png",
+  },
 };
 
 export default function RootLayout({
