@@ -36,8 +36,8 @@ export default function Security() {
         >
           <p className="text-white/60 leading-relaxed">
             We partner with industry leaders in compute, compliance, and cloud
-            operations to deliver performance you can trust. Powered by HPE, and
-            Equinix.
+            operations to deliver performance you can trust. Powered by NVIDIA,
+            HPE, and Equinix.
           </p>
         </motion.div>
 
